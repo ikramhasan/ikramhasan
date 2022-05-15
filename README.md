@@ -2,6 +2,8 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How I Made a TicTacToe Game That You Cannot Beat 🙅‍♂️](https://blog.ikramhasan.com/how-i-made-a-tictactoe-game-that-you-cannot-beat)
+- [BEST VSCode Settings for Flutter Developers 🚀](https://blog.ikramhasan.com/best-vscode-settings-for-flutter-developers)
 <!-- BLOG-POST-LIST:END -->
 
 # Trophies
