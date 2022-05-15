@@ -12,7 +12,7 @@ I'm Ikramul Hasan. An aspiring engineer 🚀 with an immense thirst for learning
 
 [![Ikrram's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikramhasan&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ikramhasan&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 # Trophies
 
