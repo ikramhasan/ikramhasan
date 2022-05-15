@@ -1,6 +1,5 @@
 # Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&lines=I'm+Ikramul+Hasan;An+aspiring+engineer+%F0%9F%9A%80+with+an+immense+thirst+for+learning+new+technologies+%F0%9F%91%8C)](https://git.io/typing-svg)
 I'm Ikramul Hasan. An aspiring engineer 🚀 with an immense thirst for learning new technologies 👌
 
 # Blog posts
@@ -10,6 +9,16 @@ I'm Ikramul Hasan. An aspiring engineer 🚀 with an immense thirst for learning
 <!-- BLOG-POST-LIST:END -->
 
 # Stats
+
+<br/>
+<p align="left">
+  <a href="https://www.ikramhasan.com/">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ikramhasan&count_private=true&show_icons=true&theme=radical" />
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikramhasan&count_private=true&show_icons=true&theme=radical" />
+  </a>
+</p>
+<br>
+
 
 [![Ikrram's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikramhasan&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
