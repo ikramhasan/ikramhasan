@@ -10,6 +10,15 @@ I'm Ikramul Hasan. An aspiring engineer 🚀 with an immense thirst for learning
 
 # Stats
 
+<p align="left">
+  <a href="https://www.ikramhasan.com/">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ikramhasan&count_private=true&show_icons=true&theme=radical" />
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikramhasan&count_private=true&show_icons=true&theme=radical" />
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikramhasan&count_private=true&show_icons=true&theme=radical&layout=compact" />
+  </a>
+</p>
+<br>
+
 [![Ikrram's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikramhasan&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
