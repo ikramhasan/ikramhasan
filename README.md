@@ -12,6 +12,8 @@ I'm Ikramul Hasan. An aspiring engineer 🚀 with an immense thirst for learning
 
 [![Ikrram's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikramhasan&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 # Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ikramhasan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
