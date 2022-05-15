@@ -12,6 +12,8 @@ I'm Ikramul Hasan. An aspiring engineer 🚀 with an immense thirst for learning
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ikramhasan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+![](https://komarev.com/ghpvc/?username=ikramhasan&style=flat-square)
+
 <!--
 **ikramhasan/ikramhasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
