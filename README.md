@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hi there 👋
+
+I'm Ikramul Hasan. An aspiring engineer 🚀 with an immense thirst for learning new technologies 👌
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
