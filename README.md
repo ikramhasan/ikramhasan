@@ -8,11 +8,13 @@ I'm Ikramul Hasan. An aspiring engineer 🚀 with an immense thirst for learning
 - [BEST VSCode Settings for Flutter Developers 🚀](https://blog.ikramhasan.com/best-vscode-settings-for-flutter-developers)
 <!-- BLOG-POST-LIST:END -->
 
+# Stats
+
+[![Ikrram's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikramhasan)](https://github.com/anuraghazra/github-readme-stats)
+
 # Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ikramhasan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Ikrram's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikramhasan)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **ikramhasan/ikramhasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
