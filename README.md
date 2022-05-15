@@ -14,7 +14,7 @@ I'm Ikramul Hasan. An aspiring engineer 🚀 with an immense thirst for learning
 <p align="left">
   <a href="https://www.ikramhasan.com/">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ikramhasan&count_private=true&show_icons=true&theme=radical" />
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikramhasan&count_private=true&show_icons=true&theme=radical" />
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikramhasan&count_private=true&show_icons=true&theme=radical&hide=cmake,html" />
   </a>
 </p>
 <br>
