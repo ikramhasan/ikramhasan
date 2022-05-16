@@ -2,6 +2,8 @@
 
 I'm Ikramul Hasan. An aspiring engineer 🚀 with an immense thirst for learning new technologies 👌
 
+[![Edit README intro.gif](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/readme-introgif-9fjo5?fontsize=14&hidenavigation=1&theme=dark)
+
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [How I Made a TicTacToe Game That You Cannot Beat 🙅‍♂️](https://blog.ikramhasan.com/how-i-made-a-tictactoe-game-that-you-cannot-beat)
