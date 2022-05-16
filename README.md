@@ -1,8 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Ikramul Hasan 👋
 
-I'm Ikramul Hasan. An aspiring engineer 🚀 with an immense thirst for learning new technologies 👌
+An aspiring engineer 🚀 with an immense thirst for learning new technologies 👌 I value teamwork and an inviting environment for expressing new
+ideas. I’m always intrigued by the new frameworks and technologies that the software industry brings forward.
+
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+  
+### 🧐 More About Me:
+
+- 🔭 &nbsp; I’m currently trying to build my startup, a software farm called [TechShoi](http://techshoi.com/)
+- 🔍 &nbsp; Find all my socials, contacts, blogs, and more on [my personal portfolio site](https://www.ikramhasan.com/)
+- 🤝 &nbsp; I’m looking to collaborate on [GG](https://github.com/ikramhasan/GG-Games-and-Giveaways)
+- 🌱 &nbsp; I’m currently learning Game Development with Unity
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/ikramhasan?tab=repositories)
+- 💬 &nbsp; Ask me about anything tech related, I am happy to help
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/ikramhasan/)
+- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1fDyNcJTpZihq5FeE5Dae8pQPApkVpiiA/view)
+- 📚 &nbsp; I am currenly reading [The Things You Can See Only When You Slow Down](https://www.goodreads.com/book/show/30780006-the-things-you-can-see-only-when-you-slow-down)
 
 ## Blog posts
+
+I've started writing blogs. Since I'm very new at this, I would love to hear your suggestions and critisism. Thanks. 
+
 <!-- BLOG-POST-LIST:START -->
 - [How I Made a TicTacToe Game That You Cannot Beat 🙅‍♂️](https://blog.ikramhasan.com/how-i-made-a-tictactoe-game-that-you-cannot-beat)
 - [BEST VSCode Settings for Flutter Developers 🚀](https://blog.ikramhasan.com/best-vscode-settings-for-flutter-developers)
@@ -35,7 +53,7 @@ I'm Ikramul Hasan. An aspiring engineer 🚀 with an immense thirst for learning
 
 ## 🗂️ Highlighted Projects
 
-<a href="https://github.com/ikramhasan/https://github.com/ikramhasan/GG-Games-and-Giveaways">
+<a href="https://github.com/ikramhasan/GG-Games-and-Giveaways">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ikramhasan&repo=GG-Games-and-Giveaways&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="GG: Games and Givewaways" />
 </a>
 
