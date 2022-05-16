@@ -8,7 +8,7 @@ ideas. I’m always intrigued by the new frameworks and technologies that the so
 ### 🧐 More About Me:
 
 - 🔭 &nbsp; I’m currently trying to build my startup, a software farm called [TechShoi](http://techshoi.com/)
-- 🔍 &nbsp; Find all my socials, contacts, blogs, and more on [my personal portfolio site](https://www.ikramhasan.com/)
+- 🔍 &nbsp; Find all my socials, contacts, blogs, and more on my personal portfolio site - [ikramhasan.com](https://www.ikramhasan.com/)
 - 🤝 &nbsp; I’m looking to collaborate on [GG](https://github.com/ikramhasan/GG-Games-and-Giveaways)
 - 🌱 &nbsp; I’m currently learning Game Development with Unity
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/ikramhasan?tab=repositories)
