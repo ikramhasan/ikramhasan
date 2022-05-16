@@ -35,10 +35,6 @@ I've started writing blogs. Since I'm very new at this, I would love to hear you
   </a>
 </p>
 
-## Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ikramhasan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
@@ -60,6 +56,10 @@ I've started writing blogs. Since I'm very new at this, I would love to hear you
 <a href="https://github.com/ikramhasan/Impossible-TicTacToe-Ai">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ikramhasan&repo=Impossible-TicTacToe-Ai&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Anime Portal" />
 </a>
+
+## Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ikramhasan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <!--
