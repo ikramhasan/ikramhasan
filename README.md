@@ -8,16 +8,6 @@ I'm Ikramul Hasan. An aspiring engineer 🚀 with an immense thirst for learning
 - [BEST VSCode Settings for Flutter Developers 🚀](https://blog.ikramhasan.com/best-vscode-settings-for-flutter-developers)
 <!-- BLOG-POST-LIST:END -->
 
-## 🔧 Technologies & Tools
-
-![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Framework-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Frameword-React-informational?style=flat&logo=react&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Design-Figma-informational?style=flat&logo=figma&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=6aa6f8)
-
 ## Stats
 
 <p align="left">
@@ -31,6 +21,18 @@ I'm Ikramul Hasan. An aspiring engineer 🚀 with an immense thirst for learning
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ikramhasan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+## 🔧 Technologies & Tools
+
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Framework-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Design-Figma-informational?style=flat&logo=figma&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=6aa6f8)
+
 ## 🗂️ Highlighted Projects
 
 <a href="https://github.com/ikramhasan/https://github.com/ikramhasan/GG-Games-and-Giveaways">
@@ -40,6 +42,7 @@ I'm Ikramul Hasan. An aspiring engineer 🚀 with an immense thirst for learning
 <a href="https://github.com/ikramhasan/Anime-Portal">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ikramhasan&repo=Anime-Portal&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Anime Portal" />
 </a>
+
 
 <!--
 **ikramhasan/ikramhasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
