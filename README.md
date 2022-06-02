@@ -1,4 +1,4 @@
-# Hi there, I'm Ikramul Hasan 👋
+![Header](./header_2.png)
 
 An aspiring engineer 🚀 with an immense thirst for learning new technologies 👌 I value teamwork and an inviting environment for expressing new
 ideas. I’m always intrigued by the new frameworks and technologies that the software industry brings forward.
