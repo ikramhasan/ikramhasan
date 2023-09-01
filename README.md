@@ -13,7 +13,7 @@ ideas. I’m always intrigued by the new frameworks and technologies that the so
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/ikramhasan?tab=repositories)
 - 💬 &nbsp; [Ask me](mailto:ikramhasan.dev@gmail.com) about anything tech related, I am happy to help
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/ikramhasan/)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1fDyNcJTpZihq5FeE5Dae8pQPApkVpiiA/view)
+- 📝 &nbsp; Checkout my [resume](https://ikramhasan.com/cv)
 - 📚 &nbsp; I am currenly reading [The Things You Can See Only When You Slow Down](https://www.goodreads.com/book/show/30780006-the-things-you-can-see-only-when-you-slow-down)
 
 ## Blog posts
