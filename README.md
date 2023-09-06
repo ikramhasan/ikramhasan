@@ -21,6 +21,7 @@ ideas. I’m always intrigued by the new frameworks and technologies that the so
 I've started writing blogs. Since I'm very new at this, I would love to hear your suggestions and critisism. Thanks. 
 
 <!-- BLOG-POST-LIST:START -->
+- [GG: The Journey of Building and Marketing an App](https://blog.ikramhasan.com/gg-the-journey-of-building-and-marketing-an-app)
 - [Automagically translate your entire app with just one command using AI ✨](https://blog.ikramhasan.com/automagically-translate-your-entire-app-with-just-one-command-using-ai)
 - [How I Made a TicTacToe Game That You Cannot Beat 🙅‍♂️](https://blog.ikramhasan.com/how-i-made-a-tictactoe-game-that-you-cannot-beat)
 - [BEST VSCode Settings for Flutter Developers 🚀](https://blog.ikramhasan.com/best-vscode-settings-for-flutter-developers)
