@@ -27,6 +27,8 @@ I've started writing blogs. Since I'm very new at this, I would love to hear you
 - [BEST VSCode Settings for Flutter Developers 🚀](https://blog.ikramhasan.com/best-vscode-settings-for-flutter-developers)
 <!-- BLOG-POST-LIST:END -->
 
+<a href="https://app.daily.dev/ikramhasan"><img src="https://api.daily.dev/devcards/v2/yTv81KZ6R.png?type=wide&r=7zp" width="652" alt="Ikram Hasan's Dev Card"/></a>
+
 ## Stats
 
 <p align="left">
