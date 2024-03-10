@@ -57,8 +57,17 @@ I've started writing blogs. Since I'm very new at this, I would love to hear you
 </a>
 
 <a href="https://github.com/ikramhasan/Impossible-TicTacToe-Ai">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ikramhasan&repo=Impossible-TicTacToe-Ai&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Anime Portal" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ikramhasan&repo=Impossible-TicTacToe-Ai&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Impossible Tic Tac Toe" />
 </a>
+
+<a href="https://github.com/ikramhasan/AI-Dev-Scripts">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ikramhasan&repo=AI-Dev-Scripts&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="AI Developer Scripts" />
+</a>
+
+<a href="https://github.com/ikramhasan/github_stargazers">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ikramhasan&repo=github_stargazers&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Github StarGazers App" />
+</a>
+
 
 ## Trophies
 
