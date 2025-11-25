@@ -28,15 +28,6 @@ I've started writing blogs. Since I'm very new at this, I would love to hear you
 
 <a href="https://app.daily.dev/ikramhasan"><img src="https://api.daily.dev/devcards/v2/yTv81KZ6R.png?type=wide&r=7zp" width="652" alt="Ikram Hasan's Dev Card"/></a>
 
-## Stats
-
-<p align="left">
-  <a href="https://www.ikramhasan.com/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ikramhasan&count_private=true&show_icons=true&theme=radical" />
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikramhasan&count_private=true&show_icons=true&theme=radical&layout=compact&langs_count=4" />
-  </a>
-</p>
-
 ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
@@ -48,25 +39,6 @@ I've started writing blogs. Since I'm very new at this, I would love to hear you
 ![](https://img.shields.io/badge/Design-Figma-informational?style=flat&logo=figma&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=6aa6f8)
-
-## 🗂️ Highlighted Projects
-
-<a href="https://github.com/ikramhasan/GG-Games-and-Giveaways">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ikramhasan&repo=GG-Games-and-Giveaways&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="GG: Games and Givewaways" />
-</a>
-
-<a href="https://github.com/ikramhasan/Impossible-TicTacToe-Ai">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ikramhasan&repo=Impossible-TicTacToe-Ai&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Impossible Tic Tac Toe" />
-</a>
-
-<a href="https://github.com/ikramhasan/AI-Dev-Scripts">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ikramhasan&repo=AI-Dev-Scripts&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="AI Developer Scripts" />
-</a>
-
-<a href="https://github.com/ikramhasan/github_stargazers">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ikramhasan&repo=github_stargazers&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Github StarGazers App" />
-</a>
-
 
 ## Trophies
 
