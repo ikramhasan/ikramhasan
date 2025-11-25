@@ -7,13 +7,12 @@ ideas. I’m always intrigued by the new frameworks and technologies that the so
   
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; Working at [Markopolo AI](https://markopolo.ai), and building [onetapfolio](https://onetapfolio.com), and [GG](https://ikramhasan.com/gg)
+- 🔭 &nbsp; Working at [Monsha AI](https://monsha.ai), and building [inboxswipe](https://inboxswipe.com), and [GG](https://ikram.click/gg)
 - 🔍 &nbsp; Find all my socials, contacts, blogs, and more on my personal portfolio site - [ikramhasan.com](https://www.ikramhasan.com/)
-- 🌱 &nbsp; I’m currently learning Game Development with Unity
+- 🌱 &nbsp; I’m currently learning Rust
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/ikramhasan?tab=repositories)
-- 💬 &nbsp; [Ask me](mailto:ikramhasan.dev@gmail.com) about anything tech related, I am happy to help
+- 💬 &nbsp; [Ask me](mailto:contact@ikramhasan.com) about anything tech related, I am happy to help
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/ikramhasan/)
-- 📝 &nbsp; Checkout my [resume](https://ikramhasan.com/cv)
 - 📚 &nbsp; I am currenly reading [The Things You Can See Only When You Slow Down](https://www.goodreads.com/book/show/30780006-the-things-you-can-see-only-when-you-slow-down)
 
 ## Blog posts
