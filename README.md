@@ -1,6 +1,6 @@
 ![Header](./header_2.png)
 
-An aspiring engineer 🚀 with an immense thirst for learning new technologies 👌 I value teamwork and an inviting environment for expressing new
+Software engineer 🚀 with an immense thirst for learning new technologies 👌 I value teamwork and an inviting environment for expressing new
 ideas. I’m always intrigued by the new frameworks and technologies that the software industry brings forward.
 
 <!-- <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/> -->
