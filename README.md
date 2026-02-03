@@ -5,15 +5,29 @@ ideas. I’m always intrigued by the new frameworks and technologies that the so
 
 <!-- <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/> -->
   
-### 🧐 More About Me:
+### 🧐 More About Me
 
-- 🔭 &nbsp; Working at [Monsha AI](https://monsha.ai), and building [inboxswipe](https://inboxswipe.com), and [GG](https://ikram.click/gg)
+- 🔭 &nbsp; Working at [Monsha AI](https://monsha.ai), and building [inboxswipe](https://inboxswipe.com), and [FlutterBoilerplate](https://www.flutterboilerplate.com/)
 - 🔍 &nbsp; Find all my socials, contacts, blogs, and more on my personal portfolio site - [ikramhasan.com](https://www.ikramhasan.com/)
 - 🌱 &nbsp; I’m currently learning Rust
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/ikramhasan?tab=repositories)
 - 💬 &nbsp; [Ask me](mailto:contact@ikramhasan.com) about anything tech related, I am happy to help
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/ikramhasan/)
 - 📚 &nbsp; I am currenly reading [The Things You Can See Only When You Slow Down](https://www.goodreads.com/book/show/30780006-the-things-you-can-see-only-when-you-slow-down)
+
+## Projects
+
+- ✉️ [InboxSwipe](https://inboxswipe.com): Cleaning emails made fun with tinder like swipe gestures. Available on both iOS and android
+- 📲 [FlutterBoilerplat](https://www.flutterboilerplate.com/): The most popular commercial flutter boilerplate template
+- 📝 [Yana](https://github.com/ikramhasan/yana): An open source lightweight, resource efficient obsidian alternative note taking app
+- 🎮 [GG](https://play.google.com/store/apps/details?id=com.ikramhasan.free_games_giveaways): Free game giveaways notifier
+- 📊 [Algorithm Artbook](https://algorithm-artbook.vercel.app/): Algorithm visualizer made in nextjs
+- ❌ [Impossible TicTacToe](https://play.google.com/store/apps/details?id=com.ikramhasan.tic_tac_toe): An impossible to win tic tac toe game
+- 🌱 [TERRA](https://play.google.com/store/apps/details?id=com.ikramhasan.terra): Eco friendly habit tracking app
+- 🎧 [tune95](https://github.com/ikramhasan/tune95): Music player in windows 95 style made in rust
+- 👨‍💻 [AiDevScripts](https://github.com/ikramhasan/AI-Dev-Scripts): Scripts that leverage AI to assist you in development (my most starred repo)
+- 🇯🇵 [AnimePortal](https://github.com/ikramhasan/Anime-Portal): An offline anime watchlist app
+- 📈 [SortingAlgorithmVisualizer](https://sorting-algorithm-visualized.web.app/): Another algorithm visualizer I made a while ago in flutter
 
 ## Blog posts
 
@@ -25,60 +39,3 @@ I've started writing blogs. Since I'm very new at this, I would love to hear you
 - [How I Made a TicTacToe Game That You Cannot Beat 🙅‍♂️](https://blog.ikramhasan.com/how-i-made-a-tictactoe-game-that-you-cannot-beat)
 - [BEST VSCode Settings for Flutter Developers 🚀](https://blog.ikramhasan.com/best-vscode-settings-for-flutter-developers)
 <!-- BLOG-POST-LIST:END -->
-
-## Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ikramhasan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-<!--
-**ikramhasan/ikramhasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-import Vue from "vue";
-import App from "./App.vue";
-import TypeIt from "typeit";
-
-Vue.config.productionTip = false;
-
-new Vue({
-  render: h => h(App)
-}).$mount("#app");
-
-new TypeIt("#inner-demo-2", {
-  speed: 100,
-  lifelike: true,
-  cursor: true,
-  cursorSpeed: 300,
-  loop: true
-})
-  .pause(1000)
-  .type('<span style="font-family: Segoe UI Emoji">👋</span>', {
-    html: true
-  })
-  .type("&nbspHi&nbspthere!&nbspI'm&nbspIkramul&nbspHasan.")
-  .pause(750)
-  .move(-6)
-  .delete(3, { deleteSpeed: 130 })
-  .pause(500)
-  //.type("&nbspcom")
-  //.pause(500)
-  .move(-5)
-  .type("https://")
-  .move(11)
-  .type("com")
-  .move("END")
-  .pause(1000)
-  .go();
-
--->
