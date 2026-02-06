@@ -18,7 +18,7 @@ ideas. I’m always intrigued by the new frameworks and technologies that the so
 ## Projects
 
 - ✉️ [InboxSwipe](https://inboxswipe.com): Cleaning emails made fun with tinder like swipe gestures. Available on both iOS and android
-- 📲 [FlutterBoilerplat](https://www.flutterboilerplate.com/): The most popular commercial flutter boilerplate template
+- 📲 [FlutterBoilerplate](https://www.flutterboilerplate.com/): The most popular commercial flutter boilerplate template
 - 📝 [Yana](https://github.com/ikramhasan/yana): An open source lightweight, resource efficient obsidian alternative note taking app
 - 🎮 [GG](https://play.google.com/store/apps/details?id=com.ikramhasan.free_games_giveaways): Free game giveaways notifier
 - 📊 [Algorithm Artbook](https://algorithm-artbook.vercel.app/): Algorithm visualizer made in nextjs
@@ -28,6 +28,13 @@ ideas. I’m always intrigued by the new frameworks and technologies that the so
 - 👨‍💻 [AiDevScripts](https://github.com/ikramhasan/AI-Dev-Scripts): Scripts that leverage AI to assist you in development (my most starred repo)
 - 🇯🇵 [AnimePortal](https://github.com/ikramhasan/Anime-Portal): An offline anime watchlist app
 - 📈 [SortingAlgorithmVisualizer](https://sorting-algorithm-visualized.web.app/): Another algorithm visualizer I made a while ago in flutter
+
+## Open source contributions
+
+- 🔀 *Flutter*: [fix: clip ink highlights in NavigationDrawer when footer is present#181050](https://github.com/flutter/flutter/pull/181050)
+- 🔀 *Flutter*: [fix: OutlineInputBorder not respecting BorderSide stroke alignment#180487](https://github.com/flutter/flutter/pull/180487)
+- 🔀 *Meilisearch*: [Add support for showPerformanceDetails in search endpoints#468](https://github.com/meilisearch/meilisearch-dart/pull/468)
+- 🔀 *View All*: [https://ikram-prs.vercel.app](https://ikram-prs.vercel.app)
 
 ## Blog posts
 
